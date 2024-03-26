@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://lanrie-dev.github.io/social-profile-links/)
+- Live Site URL: [Add live site URL here](https://lanrie-dev.github.io/social-profile-links/)
 
 ## My process
 
@@ -47,21 +47,14 @@ Users should be able to:
     
     The 'aria-labelledby' attribute is used to associate the element with one or more elements that serve as labels or descriptions for it. In this case, the value '"cardTitle"' likely refers to the ID of an element that acts as the label or title for the element with the 'aria-labelledby' attribute.
 
-2. I 
-
-To see how you can add code snippets, see below:
-
 ```html
 <article aria-labelledby="cardTitle" class="card">
-```
-```css
-
 ```
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [LANRIE-DEV](https://lanrie-dev.github.io/social-profile-links/)
+- Frontend Mentor - [@LANRIE-DEV](https://www.frontendmentor.io/profile/LANRIE-DEV)
 
 
 
